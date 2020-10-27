@@ -3,7 +3,7 @@ bcrypt==3.1.4
 certifi==2018.8.13
 cffi==1.11.5
 chardet==3.0.4
-cryptography==2.4.2
+cryptography==3.2
 cx-Freeze==5.1.1
 #Django==2.0.6
 django-auth-ldap==1.2.10
